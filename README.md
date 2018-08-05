@@ -1,6 +1,9 @@
 ![OnionChat](http://i.imgur.com/lQpoAzL.png)
 
 # [OnionChat](https://chatrapi7fkbzczr.onion)
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/OnionChat.svg)](https://www.guardrails.io)
+
 ### [chatrapi7fkbzczr.onion](https://chatrapi7fkbzczr.onion)
 Anonymous realtime chat. No JS.
 
